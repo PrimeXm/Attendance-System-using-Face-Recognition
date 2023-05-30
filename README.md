@@ -23,6 +23,8 @@ Before running the project, make sure you have the following prerequisites:
 - - Kivy: Install the Kivy framework using the following command:
 - pip install kivy
 
+I used pycharm 
+also create own database to use it
 ## Usage
 
 1. Clone the repository:
