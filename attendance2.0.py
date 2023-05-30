@@ -17,7 +17,7 @@ dataset_path = "custom_dataset"
 # Initialize Firebase
 cred = credentials.Certificate("Key.json")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://realtime-b5552-default-rtdb.firebaseio.com/students'
+    'databaseURL': ''
 })
 
 # Initialize variables
