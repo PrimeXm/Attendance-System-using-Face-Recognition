@@ -15,13 +15,13 @@ Before running the project, make sure you have the following prerequisites:
 
 - **Python**: Ensure that Python is installed on your system. You can download it from the official Python website: [https://www.python.org/](https://www.python.org/)
 - **OpenCV**: Install the OpenCV library for Python. You can use the following command to install it using pip:
-- -pip install opencv-python
+- - pip install opencv-python
 - **Face Recognition Libraries**: Install the required face recognition libraries. For example, you can use the following command to install the face_recognition library:
-- -pip install face_recognition
+- - pip install face_recognition
 - Firebase Admin SDK: Install the Firebase Admin SDK using the following command:
 - - pip install firebase-admin
 - Kivy: Install the Kivy framework using the following command:
-- -pip install kivy
+- - pip install kivy
 
 I used pycharm 
 ## Also create own database to use it
