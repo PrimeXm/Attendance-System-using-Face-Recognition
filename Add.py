@@ -13,7 +13,7 @@ from kivy.uix.button import Button
 # Initialize Firebase app
 cred = credentials.Certificate("Key.json")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://realtime-b5552-default-rtdb.firebaseio.com/'
+    'databaseURL': ''
 })
 
 # Create a reference to the Firebase database
