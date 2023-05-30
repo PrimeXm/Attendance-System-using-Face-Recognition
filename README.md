@@ -22,9 +22,12 @@ Before running the project, make sure you have the following prerequisites:
 - - pip install firebase-admin
 - Kivy: Install the Kivy framework using the following command:
 - - pip install kivy
+- sklearn: Install the sklearn library using the following command:
+- -pip install scikit-learn 
 
 I used pycharm 
-## Also create own database to use it
+## create own database to use it
+ - Am using firebase
 ## Usage
 
 1. Clone the repository:
