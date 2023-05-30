@@ -24,7 +24,7 @@ Before running the project, make sure you have the following prerequisites:
 - pip install kivy
 
 I used pycharm 
-also create own database to use it
+## Also create own database to use it
 ## Usage
 
 1. Clone the repository:
